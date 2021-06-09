@@ -1,3 +1,4 @@
+# movie-recommender-system
 # Installation
 - Make sure you have installed Jupyter Notebook. If not yet, you can install via [Anaconda](https://docs.anaconda.com/anaconda/install/).
 - Pip:
